@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-movie-app/static/css/main.073c9b0a.css",
-    "main.js": "/react-movie-app/static/js/main.f2ad60c6.js",
+    "main.css": "/react-movie-app/static/css/main.bf6cfe1f.css",
+    "main.js": "/react-movie-app/static/js/main.993cb2b5.js",
     "static/js/787.269438a4.chunk.js": "/react-movie-app/static/js/787.269438a4.chunk.js",
-    "static/media/logo.svg": "/react-movie-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-movie-app/index.html",
-    "main.073c9b0a.css.map": "/react-movie-app/static/css/main.073c9b0a.css.map",
-    "main.f2ad60c6.js.map": "/react-movie-app/static/js/main.f2ad60c6.js.map",
+    "main.bf6cfe1f.css.map": "/react-movie-app/static/css/main.bf6cfe1f.css.map",
+    "main.993cb2b5.js.map": "/react-movie-app/static/js/main.993cb2b5.js.map",
     "787.269438a4.chunk.js.map": "/react-movie-app/static/js/787.269438a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f2ad60c6.js"
+    "static/css/main.bf6cfe1f.css",
+    "static/js/main.993cb2b5.js"
   ]
 }
